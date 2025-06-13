@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: Warforged Watcher
+## Notes: Posts to World when a Warforged item is looted
+## Author: YourName
+WFW.lua
